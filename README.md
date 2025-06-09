@@ -2,4 +2,5 @@
 
 Witam w moim projekcie algorytmu genetycznego dla sudoku :>
 
-https://i.pinimg.com/originals/ee/42/d9/ee42d91ece376e6847f6941b72269c76.gif
+![image](https://github.com/user-attachments/assets/c4b644e3-d1de-46ca-aced-860f72946fba)
+
